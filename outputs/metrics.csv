@@ -1,0 +1,3 @@
+model,accuracy,spam_precision,spam_recall,spam_f1,test_records
+MultinomialNB,0.9844961240310077,0.9666666666666667,0.90625,0.9354838709677419,1032
+DummyClassifier,0.875968992248062,0.0,0.0,0.0,1032

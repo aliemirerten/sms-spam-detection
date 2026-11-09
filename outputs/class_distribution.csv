@@ -1,0 +1,5 @@
+stage,total,ham,spam
+raw,5574,4827,747
+clean,5159,4517,642
+train,4127,3613,514
+test,1032,904,128

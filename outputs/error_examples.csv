@@ -1,0 +1,15 @@
+source_line,actual_label,message,predicted_label,baseline_prediction,error_type
+1501,spam,"SMS. ac JSco: Energy is high, but u may not know where 2channel it. 2day ur leadership skills r strong. Psychic? Reply ANS w/question. End? Reply END JSCO",ham,ham,false_negative
+3361,spam,Sorry I missed your call let's talk when you have the time. I'm on 07090201529,ham,ham,false_negative
+4863,ham,Nokia phone is lovly..,spam,ham,false_positive
+3133,spam,"LookAtMe!: Thanks for your purchase of a video clip from LookAtMe!, you've been charged 35p. Think you can do better? Why not send a video in a MMSto 32323.",ham,ham,false_negative
+685,spam,Hi I'm sue. I am 20 years old and work as a lapdancer. I love sex. Text me live - I'm i my bedroom now. text SUE to 89555. By TextOperator G2 1DA 150ppmsg 18+,ham,ham,false_negative
+2403,spam,Babe: U want me dont u baby! Im nasty and have a thing 4 filthyguys. Fancy a rude time with a sexy bitch. How about we go slo n hard! Txt XXX SLO(4msgs),ham,ham,false_negative
+4601,ham,Have you laid your airtel line to rest?,spam,ham,false_positive
+4257,spam,Block Breaker now comes in deluxe format with new features and great graphics from T-Mobile. Buy for just £5 by replying GET BBDELUXE and take the challenge,ham,ham,false_negative
+4299,spam,thesmszone.com lets you send free anonymous and masked messages..im sending this message from there..do you see the potential for abuse???,ham,ham,false_negative
+3891,ham,Unlimited texts. Limited minutes.,spam,ham,false_positive
+2970,ham,"Mostly sports type..lyk footbl,crckt..",spam,ham,false_positive
+1459,spam,CLAIRE here am havin borin time & am now alone U wanna cum over 2nite? Chat now 09099725823 hope 2 C U Luv CLAIRE xx Calls£1/minmoremobsEMSPOBox45PO139WA,ham,ham,false_negative
+5373,spam,dating:i have had two of these. Only started after i sent a text to talk sport radio last week. Any connection do you think or coincidence?,ham,ham,false_negative
+2431,spam,Guess who am I?This is the first time I created a web page WWW.ASJESUS.COM read all I wrote. I'm waiting for your opinions. I want to be your friend 1/1,ham,ham,false_negative

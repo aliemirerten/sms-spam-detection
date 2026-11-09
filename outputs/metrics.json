@@ -1,0 +1,52 @@
+{
+  "positive_class": "spam",
+  "zero_division": 0,
+  "models": [
+    {
+      "model": "MultinomialNB",
+      "accuracy": 0.9844961240310077,
+      "spam_precision": 0.9666666666666667,
+      "spam_recall": 0.90625,
+      "spam_f1": 0.9354838709677419,
+      "test_records": 1032
+    },
+    {
+      "model": "DummyClassifier",
+      "accuracy": 0.875968992248062,
+      "spam_precision": 0.0,
+      "spam_recall": 0.0,
+      "spam_f1": 0.0,
+      "test_records": 1032
+    }
+  ],
+  "confusion_matrix_axes": {
+    "rows": "actual",
+    "columns": "predicted",
+    "class_order": [
+      "ham",
+      "spam"
+    ]
+  },
+  "confusion_matrices": {
+    "MultinomialNB": [
+      [
+        900,
+        4
+      ],
+      [
+        12,
+        116
+      ]
+    ],
+    "DummyClassifier": [
+      [
+        904,
+        0
+      ],
+      [
+        128,
+        0
+      ]
+    ]
+  }
+}
